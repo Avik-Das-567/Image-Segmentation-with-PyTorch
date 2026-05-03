@@ -1,5 +1,5 @@
 # Human Image Segmentation with PyTorch and U-Net
-
+ 
 ## Overview
 
 This project implements a binary human image segmentation pipeline using PyTorch. The objective is to learn a pixel-wise mapping from an RGB input image to a foreground mask that separates the human subject from the background. The notebook follows the full segmentation workflow: dataset inspection, paired image-mask preprocessing, synchronized augmentation, model construction with a pretrained convolutional encoder, training, validation, checkpointing, and visual inference.
